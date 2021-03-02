@@ -1,0 +1,19 @@
+{
+  "name": "Ejercicio_Node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "debug": "nodemon --inspect index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "eslint-config-prettier": "^8.1.0",
+    "jsdom": "^16.4.0",
+    "prettier": "^2.2.1"
+  }
+}
